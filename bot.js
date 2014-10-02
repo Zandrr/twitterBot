@@ -30,4 +30,4 @@ var Twit = require('twit');
 	}
 
 retweetRecent();
-setInterval(retweetRecent, 3600000); //do this every hour
+setInterval(retweetRecent, 3600000); //do this every hour.
